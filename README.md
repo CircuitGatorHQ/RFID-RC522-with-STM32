@@ -1,6 +1,6 @@
 # RFID-RC522-with-STM32
 How to use RC522 RFID with STM32 | 
-These are the library and code you can use to read RFID cards with the RC522 RFID module using an STM32 Microcontroller. The video tutorial is available on YouTube: 
+These are the library and code you can use to read RFID cards with the RC522 RFID module using an STM32 Microcontroller. The video tutorial is available on YouTube: https://youtu.be/Ay3ysGDrxbo
 
     /* Private includes ----------------------------------------------------------*/
     /* USER CODE BEGIN Includes */
